@@ -18,6 +18,7 @@ const typeDefs = `#graphql
     name: String!
     books: [Book!]!
   }
+  
 
   type Categorie {
     id: Int!
